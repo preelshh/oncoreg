@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oncoreg"
+version = "0.1.0"
+description = "Regulatory Burden Index for cancer patients using AlphaGenome"
+authors = [{name = "OncoReg Contributors"}]
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+dependencies = [
+    "alphagenome>=0.5.0",
+    "pandas>=2.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/oncoreg"
+Documentation = "https://github.com/yourusername/oncoreg#readme"
