@@ -51,14 +51,3 @@ Higher RBI indicates greater regulatory dysregulation, which may correlate with:
 - Treatment response
 - Patient survival outcomes
 
-## Citation
-
-If you use OncoReg in your research, please cite:
-
-```
-[Citation will be added upon publication]
-```
-
-## License
-
-MIT License - see LICENSE file for details.
